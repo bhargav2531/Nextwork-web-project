@@ -14,10 +14,12 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1741935664,,"wq"
+:qa
+|2,0,1741935541,,"qa"
 :q
 |2,0,1741859831,,"q"
-:wq
-|2,0,1741856416,,"wq"
 
 # Search String History (newest to oldest):
 ? @$
@@ -32,16 +34,38 @@ $
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1741860025,"~/.git/COMMIT_EDITMSG"
-'2  1  0  ~/.git/COMMIT_EDITMSG
-|4,50,1,0,1741859831,"~/.git/COMMIT_EDITMSG"
-'3  9  0  ~/.git/branches
-|4,51,9,0,1741856422,"~/.git/branches"
+'0  18  27  ~/.git/COMMIT_EDITMSG
+|4,48,18,27,1741935664,"~/.git/COMMIT_EDITMSG"
+'1  15  0  ~/.git/COMMIT_EDITMSG
+|4,49,15,0,1741935436,"~/.git/COMMIT_EDITMSG"
+'2  15  0  ~/.git/COMMIT_EDITMSG
+|4,50,15,0,1741935436,"~/.git/COMMIT_EDITMSG"
+'3  1  0  ~/.git/COMMIT_EDITMSG
+|4,51,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
+'4  1  0  ~/.git/COMMIT_EDITMSG
+|4,52,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
+'5  1  0  ~/.git/COMMIT_EDITMSG
+|4,53,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
+'6  1  0  ~/.git/COMMIT_EDITMSG
+|4,54,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
+'7  1  0  ~/.git/COMMIT_EDITMSG
+|4,55,1,0,1741860025,"~/.git/COMMIT_EDITMSG"
+'8  1  0  ~/.git/COMMIT_EDITMSG
+|4,56,1,0,1741860025,"~/.git/COMMIT_EDITMSG"
+'9  1  0  ~/.git/COMMIT_EDITMSG
+|4,57,1,0,1741860025,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  18  27  ~/.git/COMMIT_EDITMSG
+|4,39,18,27,1741935664,"~/.git/COMMIT_EDITMSG"
+-'  15  0  ~/.git/COMMIT_EDITMSG
+|4,39,15,0,1741935461,"~/.git/COMMIT_EDITMSG"
+-'  15  0  ~/.git/COMMIT_EDITMSG
+|4,39,15,0,1741935436,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1741935371,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1741935371,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -60,6 +84,38 @@ $
 |4,39,9,0,1741856422,"~/.git/branches"
 -'  9  0  ~/.git/branches
 |4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
 -'  1  0  ~/.git/branches
 |4,39,1,0,1741856397,"~/.git/branches"
 -'  1  0  ~/.git/branches
@@ -76,5 +132,9 @@ $
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1741859936	0
-	"	1	0
+	*	1741935662	0
+	"	18	27
+	^	18	28
+	.	18	27
+	+	17	11
+	+	18	27
