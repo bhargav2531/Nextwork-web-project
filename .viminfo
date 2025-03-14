@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1741856422,,"q"
+|2,0,1741859831,,"q"
 :wq
 |2,0,1741856416,,"wq"
 
@@ -32,13 +32,49 @@ $
 # Registers:
 
 # File marks:
-'0  9  0  ~/.git/branches
-|4,48,9,0,1741856422,"~/.git/branches"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1741860025,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1741859831,"~/.git/COMMIT_EDITMSG"
+'3  9  0  ~/.git/branches
+|4,51,9,0,1741856422,"~/.git/branches"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1741861865,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1741860025,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1741859831,"~/.git/COMMIT_EDITMSG"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
+-'  9  0  ~/.git/branches
+|4,39,9,0,1741856422,"~/.git/branches"
 -'  9  0  ~/.git/branches
 |4,39,9,0,1741856422,"~/.git/branches"
 -'  1  0  ~/.git/branches
 |4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
+-'  1  0  ~/.git/branches
+|4,39,1,0,1741856397,"~/.git/branches"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1741859936	0
+	"	1	0
